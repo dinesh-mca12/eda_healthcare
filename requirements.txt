@@ -1,0 +1,1 @@
+-r covid_vaccination_dashboard/requirements.txt
